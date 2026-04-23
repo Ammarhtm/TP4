@@ -21,10 +21,10 @@ Voici les captures d'écran des résultats (Outputs) pour chaque exercice du TP 
 ### 5. Figures Géométriques (Polymorphisme)
 ![Output 5](./screenshots2/output7.png)
 
-### 6. Abstraction et Calculs (Classe Forme)
+### 6. Volant (Interface)
 ![Output 6](./screenshots2/output8.png)
 
-### 7. Interfaces et Capacités (Interface Volant)
+### 7. Un Système de véhicules modernes
 ![Output 7](./screenshots2/output9.png)
 
 ### 8. Cas d'étude : Bibliothèque Numérique
