@@ -19,7 +19,7 @@ Voici les captures d'écran des résultats (Outputs) pour chaque exercice du TP 
 ![Output 4](./screenshots2/output4_5.png)
 
 ### 5. Figures Géométriques (Polymorphisme)
-![Output 5](./screenshots2/output7.png)
+![Output 5](./screenshots2/outputs7.png)
 
 ### 6. Volant (Interface)
 ![Output 6](./screenshots2/output8.png)
